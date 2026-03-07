@@ -69,7 +69,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
